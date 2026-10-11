@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a passionate developer focused on building ef
 - **Languages:** C++, Python
 - **Concepts:** Object-Oriented Programming (OOP), Data Structures (Heaps, Arrays), System Architecture, Automated Testing
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Parking Lot Management System](https://github.com)
 An optimized, object-oriented Python application designed to manage automated parking garage facilities.
