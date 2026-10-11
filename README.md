@@ -8,12 +8,12 @@ Welcome to my GitHub profile! I am a passionate developer focused on building ef
 
 ## Featured Projects
 
-### [Parking Lot Management System](https://github.com)
+### [Parking Lot Management System]([https://github.com](https://github.com/ziaulrehmanit/university-gpa-calculator))
 An optimized, object-oriented Python application designed to manage automated parking garage facilities.
 - **Core Stack:** Python (`heapq`, `unittest`, `datetime`)
 - **Key Features:** Dynamic slot allocation using **Min-Heaps** to find the closest slot, real-time hourly billing logic, and robust automated unit test suites.
 
-### [University GPA Calculator](https://github.com)
+### [University GPA Calculator]([https://github.com](https://github.com/ziaulrehmanit/parking-lot-management-system))
  A robust C++ console application that streamlines individual academic profile tracking.
 - **Core Stack:** C++ (`iostream`, `iomanip`, `limits`)
 - **Key Features:** Custom course distributions (theory vs. practical split), real-time percent-to-grade matching, and smart input stream validation to handle user anomalies safely.
