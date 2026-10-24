@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a passionate developer focused on building ef
 
 ## Languages & Tools
 - **Languages:** C++, Python
-- **Concepts:** Object-Oriented Programming (OOP), Data Structures (Heaps, Arrays), System Architecture, Automated Testing
+- **Concepts:** Object-Oriented Programming (OOP), Data Structures (Arrays, Strings, Linked List), System Architecture, Automated Testing
 
 ## Featured Projects
 
